@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Maps-with-Flutter
-Adding a map and markers with deplace randomly in the map with flutter
-=======
+Adding a map and markers with deplace randomly in the map with flutter and save the position of markers in  json file using HTTP Post request and json server.
+=== ====
 # maps
 
 A new Flutter project.
